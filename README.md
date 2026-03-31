@@ -12,3 +12,8 @@ Cuento con experiencia en lenguajes y herramientas como:
 - SQL
 
 Y mas herramientas que con el tiempo las voy a ir perfeccionando.
+
+Contacto:
+
+Email: rudazlautaro93@gmail.com
+Linkedn: https://www.linkedin.com/in/lautaro-rudaz-19638932b/
