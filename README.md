@@ -1,16 +1,14 @@
-## Hi there 👋
+Hola a todos!
 
-<!--
-**lautarorudaz/lautarorudaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Lautaro Rudaz, soy un estudiante de ultimo año de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional de Resistencia.
 
-Here are some ideas to get you started:
+Soy un chico con ganas de formar mi carrera e ir implementando con el tiempo nuevas herramientas que ayuden a mi desarrollo como persona y profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cuento con experiencia en lenguajes y herramientas como:
+- JavaScript
+- Java
+- HTML y CSS
+- Firebase
+- SQL
+
+Y mas herramientas que con el tiempo las voy a ir perfeccionando.
